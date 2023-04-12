@@ -1,0 +1,50 @@
+[
+  {
+    "firstName": "Mateus",
+    "lastName": "Winck",
+    "adress": "sem endereço",
+    "emailAdress": "Mateus.pires@teste.com",
+    "radioGender": "m",
+    "checks": [
+      "Netflix",
+      "Livros",
+      "Dormir"
+    ],
+    "selectCountries": "Japão",
+    "selectYears": "1983",
+    "selectMonths": "Outubro",
+    "pwd": "Aa22456"
+  },
+  {
+    "firstName": "Claudia",
+    "lastName": "Leite",
+    "adress": "sem endereço",
+    "emailAdress": "Claudia.Leite@teste.com",
+    "radioGender": "f",
+    "checks": [
+      "Netflix",
+      "Livros",
+      "Dormir"
+    ],
+    "selectCountries": "Dinamarca",
+    "selectYears": "1983",
+    "selectMonths": "Outubro",
+    "pwd": "Aa22456"
+  },
+  {
+    "firstName": "Fernanda",
+    "lastName": "Montenegro",
+    "adress": "sem endereço",
+    "emailAdress": "Fe.monte@teste.com",
+    "radioGender": "f",
+    "checks": [
+      "Netflix",
+      "Livros",
+      "Dormir"
+    ],
+    "selectCountries": "Nova Zelandia",
+    "selectYears": "1983",
+    "selectMonths": "Outubro",
+    "pwd": "Aa22456"
+  }
+]
